@@ -1,0 +1,22 @@
+/* Insert into Pilots Table */
+insert into Pilots (Pilot_id,Pilot_name) values (101,'Raj');
+insert into Pilots (Pilot_id,Pilot_name) values (102,'Geetha');
+insert into Pilots (Pilot_id,Pilot_name) values (103,'Anil');
+insert into Pilots (Pilot_id,Pilot_name) values (104,'Surya');
+insert into Pilots (Pilot_id,Pilot_name) values (105,'Kumar');
+insert into Pilots (Pilot_id,Pilot_name) values (106,'Nakul');
+insert into Pilots (Pilot_id,Pilot_name) values (107,'Cathy');
+insert into Pilots (Pilot_id,Pilot_name) values (108,'Henry');
+insert into Pilots (Pilot_id,Pilot_name) values (109,'Sharma');
+insert into Pilots (Pilot_id,Pilot_name) values (110,'Swetha');
+insert into Pilots (Pilot_id,Pilot_name) values (111,'Deepak');
+insert into Pilots (Pilot_id,Pilot_name) values (112,'Karthik');
+insert into Pilots (Pilot_id,Pilot_name) values (113,'John');
+insert into Pilots (Pilot_id,Pilot_name) values (114,'Sekar');
+insert into Pilots (Pilot_id,Pilot_name) values (115,'Lily');
+insert into Pilots (Pilot_id,Pilot_name) values (116,'Andrew');
+insert into Pilots (Pilot_id,Pilot_name) values (117,'Arun');
+insert into Pilots (Pilot_id,Pilot_name) values (118,'Dharshan');
+insert into Pilots (Pilot_id,Pilot_name) values (119,'Roshan');
+insert into Pilots (Pilot_id,Pilot_name) values (120,'Emily');
+

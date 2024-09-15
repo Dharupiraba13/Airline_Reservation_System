@@ -1,0 +1,98 @@
+Route_id,Source,Destination,Route,Stops
+1,Kempegowda International Airport,Indira Gandhi International Airport,BLR → DEL,0
+2,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → IXR → BBI → BLR,2
+3,Indira Gandhi International Airport,Cochin International Airport,DEL → LKO → BOM → COK,2
+4,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → NAG → BLR,1
+5,Kempegowda International Airport,Indira Gandhi International Airport,BLR → NAG → DEL,1
+6,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BLR,0
+7,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → DEL,1
+8,Indira Gandhi International Airport,Cochin International Airport,DEL → BOM → COK,1
+9,Indira Gandhi International Airport,Cochin International Airport,DEL → BLR → COK,1
+10,Chennai International Airport,Netaji Subhash Chandra Bose International Airport,MAA → CCU,0
+11,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BOM → BLR,1
+12,Indira Gandhi International Airport,Cochin International Airport,DEL → AMD → BOM → COK,2
+13,Indira Gandhi International Airport,Cochin International Airport,DEL → PNQ → COK,1
+14,Indira Gandhi International Airport,Cochin International Airport,DEL → CCU → BOM → COK,2
+15,Kempegowda International Airport,Indira Gandhi International Airport,BLR → COK → DEL,1
+16,Indira Gandhi International Airport,Cochin International Airport,DEL → IDR → BOM → COK,2
+17,Indira Gandhi International Airport,Cochin International Airport,DEL → LKO → COK,1
+18,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → GAU → DEL → BLR,2
+19,Indira Gandhi International Airport,Cochin International Airport,DEL → NAG → BOM → COK,2
+20,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → MAA → BLR,1
+21,Indira Gandhi International Airport,Cochin International Airport,DEL → HYD → COK,1
+22,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → HYD → BLR,1
+23,Indira Gandhi International Airport,Cochin International Airport,DEL → COK,0
+24,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → DEL → BLR,1
+25,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → AMD → DEL,2
+26,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → DEL → HYD,1
+27,Indira Gandhi International Airport,Cochin International Airport,DEL → MAA → COK,1
+28,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → HYD,0
+29,Indira Gandhi International Airport,Cochin International Airport,DEL → BHO → BOM → COK,2
+30,Indira Gandhi International Airport,Cochin International Airport,DEL → JAI → BOM → COK,2
+31,Indira Gandhi International Airport,Cochin International Airport,DEL → ATQ → BOM → COK,2
+32,Indira Gandhi International Airport,Cochin International Airport,DEL → JDH → BOM → COK,2
+33,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BBI → BOM → BLR,2
+34,Kempegowda International Airport,Indira Gandhi International Airport,BLR → MAA → DEL,1
+35,Indira Gandhi International Airport,Cochin International Airport,DEL → GOI → BOM → COK,2
+36,Indira Gandhi International Airport,Cochin International Airport,DEL → BDQ → BOM → COK,2
+37,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → JAI → BOM → BLR,2
+38,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BBI → BLR,1
+39,Kempegowda International Airport,Indira Gandhi International Airport,BLR → HYD → DEL,1
+40,Indira Gandhi International Airport,Cochin International Airport,DEL → TRV → COK,1
+41,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → IXR → DEL → BLR,2
+42,Indira Gandhi International Airport,Cochin International Airport,DEL → IXU → BOM → COK,2
+43,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → IXB → BLR,1
+44,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → JDH → DEL,2
+45,Indira Gandhi International Airport,Cochin International Airport,DEL → UDR → BOM → COK,2
+46,Indira Gandhi International Airport,Cochin International Airport,DEL → HYD → MAA → COK,2
+47,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BOM → COK → BLR,2
+48,Kempegowda International Airport,Indira Gandhi International Airport,BLR → CCU → DEL,1
+49,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BOM → GOI → BLR,2
+50,Indira Gandhi International Airport,Cochin International Airport,DEL → RPR → NAG → BOM → COK,3
+51,Indira Gandhi International Airport,Cochin International Airport,DEL → HYD → BOM → COK,2
+52,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → DEL → AMD → BLR,2
+53,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → PNQ → BLR,1
+54,Kempegowda International Airport,Indira Gandhi International Airport,BLR → CCU → GAU → DEL,2
+55,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → DEL → COK → BLR,2
+56,Kempegowda International Airport,Indira Gandhi International Airport,BLR → CCU → BBI → DEL,2
+57,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BBI → HYD → BLR,2
+58,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → NAG → DEL,2
+59,Kempegowda International Airport,Indira Gandhi International Airport,BLR → CCU → BBI → HYD → DEL,3
+60,Kempegowda International Airport,Indira Gandhi International Airport,BLR → GAU → DEL,1
+61,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → BHO → DEL → HYD,2
+62,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → JLR → HYD,1
+63,Kempegowda International Airport,Indira Gandhi International Airport,BLR → HYD → VGA → DEL,2
+64,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → KNU → BLR,1
+65,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → DEL → VGA → BLR,2
+66,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → IDR → GWL → DEL,3
+67,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → DEL → COK → TRV → BLR,3
+68,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → COK → MAA → HYD,2
+69,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → NDC → HYD,1
+70,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BDQ → DEL,1
+71,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BOM → TRV → BLR,2
+72,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → BOM → HBX → BLR,2
+73,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → BDQ → DEL → HYD,2
+74,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → CCU → HYD,1
+75,Kempegowda International Airport,Indira Gandhi International Airport,BLR → TRV → COK → DEL,2
+76,Kempegowda International Airport,Indira Gandhi International Airport,BLR → IDR → DEL,1
+77,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → IXZ → MAA → BLR,2
+78,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → GAU → IMF → DEL → BLR,3
+79,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → GOI → PNQ → HYD,2
+80,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → BLR → CCU → BBI → HYD,3
+81,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → MAA → HYD,1
+82,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → UDR → DEL,2
+83,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → UDR → DEL → HYD,2
+84,Kempegowda International Airport,Indira Gandhi International Airport,BLR → VGA → VTZ → DEL,2
+85,Kempegowda International Airport,Indira Gandhi International Airport,BLR → HBX → BOM → BHO → DEL,3
+86,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → IXA → BLR,1
+87,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → RPR → VTZ → HYD,2
+88,Kempegowda International Airport,Indira Gandhi International Airport,BLR → HBX → BOM → AMD → DEL,3
+89,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → IDR → DEL → HYD,2
+90,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → BLR → HYD,1
+91,Netaji Subhash Chandra Bose International Airport,Kempegowda International Airport,CCU → IXB → DEL → BLR,2
+92,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → JAI → DEL → HYD,2
+93,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → VNS → DEL → HYD,2
+94,Kempegowda International Airport,Indira Gandhi International Airport,BLR → HBX → BOM → NAG → DEL,3
+95,Kempegowda International Airport,Indira Gandhi International Airport,BLR → BOM → IXC → DEL,2
+96,Kempegowda International Airport,Indira Gandhi International Airport,BLR → CCU → BBI → HYD → VGA → DEL,4
+97,Chhatrapati Shivaji International Airport,Rajiv Gandhi International Airport,BOM → BBI → HYD,1
